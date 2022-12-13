@@ -17,7 +17,7 @@ else:
 
 toys = 1500
 dad_money = 15000
-lent_money = (- (all_clothes + hat + toys))
+lent_money = (dad_money- (all_clothes + hat + toys))
 stuffs = (all_clothes + hat + toys)
 
 if lent_money == dad_money:
